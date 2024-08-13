@@ -1,0 +1,1 @@
+# This repo contains my AWS cloud practitioner certificate
